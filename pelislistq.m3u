@@ -21,14 +21,23 @@ acestream://72071e8702a3ea210489e3feaf7484d8c29b4914
 #EXTINF:-1, tvg-id="The Colony" tvg-logo="https://pics.filmaffinity.com/tides-539477843-mmed.jpg" group-title="Peliculas",The Colony
 acestream://257906bafcdf58266da6560264cf19846839a628
 
+#EXTINF:-1, tvg-id="Black Box" tvg-logo="https://www.filmmusicsite.com/images/covers/large/93805.jpg" group-title="Peliculas",Black Box
+acestream://4d745335dd2b072c2896986a029cac2570688933
+
 #EXTINF:-1, tvg-id="El taller" tvg-logo="https://pics.filmaffinity.com/small_engine_repair-636397546-mmed.jpg" group-title="Peliculas",El taller
 acestream://4aba1a86b6de86e9b72d646e2e634b43916f8814
+
+#EXTINF:-1, tvg-id="Jinetes de la justicia" tvg-logo="https://pics.filmaffinity.com/small_engine_repair-636397546-mmed.jpg" group-title="Peliculas",Jinetes de la justicia
+acestream://31268f2bcf9aafebdd0ec15134211e2eaf971c1c
 
 #EXTINF:-1, tvg-id="Corre y dispara" tvg-logo="https://pics.filmaffinity.com/run_gun-788626266-mmed.jpg" group-title="Peliculas",Corre y dispara
 acestream://06042df0a6693a7f08d15d637e7919ad55e4bc49
 
 #EXTINF:-1, tvg-id="Agentes 355" tvg-logo="https://pics.filmaffinity.com/the_355-274490581-mmed.jpg" group-title="Peliculas",Agentes 355
 acestream://935db5ed5af175fa9eb099ad22844893834d0646
+
+#EXTINF:-1, tvg-id="Metal Lords" tvg-logo="https://image.tmdb.org/t/p/w500/r97txZRmBb75SGsIAWqmplWJnO3.jpg" group-title="Peliculas",Metal Lords
+acestream://c3f3e13bddb69cf4667dd17b399092458a9b5670
 
 #EXTINF:-1, tvg-id="1x1 Bienvenidos al eden" tvg-logo="https://pics.filmaffinity.com/Bienvenidos_a_Ed_n_Serie_de_TV-726665930-large.jpg" group-title="Bienvenidos al eden",1x1 Bienvenidos al eden
 acestream://60488a678ef0767ae8a04421ebd2c60d9077590b
@@ -75,5 +84,84 @@ acestream://ffd5c9da17b7eb04467465f0fb6836d7e49d4f8c
 #EXTINF:-1, tvg-id="1x6 Caballero Luna" tvg-logo="https://pics.filmaffinity.com/moon_knight-515370530-mmed.jpg" group-title="Caballero Luna",1x6 Caballero Luna
 acestream://d26e52b585f3382e50d24a406bcfafdd0e00ccbe
 
+#EXTINF:-1, tvg-id="Iron Man" tvg-logo="https://www.eslahoradelastortas.com/blog/media/2020/03/dcufbt6-d96c9fcc-bd4f-4d56-9882-c027728b6e36.png" group-title="Marvel",Iron Man
+acestream://fddb23ee00f64a5ed50067e484b81bf776dbbd0b
 
+#EXTINF:-1, tvg-id="El Increible Hulk" tvg-logo="https://senseianime.com/wp-content/uploads/2021/12/El-increble-Hulk_2329_poster_de_pel%C3%ADcula0.jpg" group-title="Marvel",El Increible Hulk 
+acestream://b067ed3c7fb1ceef7865d9862846f1bd1918d6f1
+
+#EXTINF:-1, tvg-id="Iron Man 2" tvg-logo="https://m.media-amazon.com/images/I/817QeVebCIL._SL1500_.jpg" group-title="Marvel",Iron Man 2 
+acestream://37e0d1d08bff5d8ee4110edf98978428e3f6f141
+
+#EXTINF:-1, tvg-id="Thor" tvg-logo="https://www.diariodesevilla.es/2019/04/19/cine/Cartel-Thor_1347176488_98594084_667x1001.jpg" group-title="Marvel",Thor 
+acestream://fceb050fea823d4f343cc71245583ca15ef45b06
+
+#EXTINF:-1, tvg-id="Capitan America: El Primer Vengador" tvg-logo="http://pm1.narvii.com/6882/a84d92124bb9319b31df2c4896f6431fc5bbd674r1-420-630v2_uhq.jpg" group-title="Marvel",Capitan America: El Primer Vengador 
+acestream://2994f08b3575398610cb57e3f745d4ec06fb40b4
+
+#EXTINF:-1, tvg-id="Los Vengadores" tvg-logo="https://w0.peakpx.com/wallpaper/995/944/HD-wallpaper-avengers-1-captain-america-hulk-iron-man-marvel-stark-thor.jpg" group-title="Marvel",Los Vengadores 
+acestream://a201038e13f41b539d44a593e1370c00cef3d426
+
+#EXTINF:-1, tvg-id="Iron Man 3" tvg-logo="https://www.cinemascomics.com/wp-content/uploads/2013/04/Ironman3-poster.jpg" group-title="Marvel",Iron Man 3 
+acestream://f36443ae9f3a247745d07200caf9e8537a3d8873
+
+#EXTINF:-1, tvg-id="Thor: El mundo oscuro" tvg-logo="https://static.posters.cz/image/750/marco-de-plastico-thor-2-teaser-i51314.jpg" group-title="Marvel",Thor: El mundo oscuro 
+acestream://1cca6f4ea961437ddf75eaa01ca24afc00a5669f
+
+#EXTINF:-1, tvg-id="Capitan America: El soldado de invierno" tvg-logo="https://es.web.img3.acsta.net/pictures/14/01/31/16/12/220933.jpg" group-title="Marvel",Capitan America: El soldado de invierno 
+acestream://0539c95427aee0cb1c631fb3811ec615b675c5fc
+
+#EXTINF:-1, tvg-id="Guardianes de la Galaxia" tvg-logo="https://es.web.img3.acsta.net/pictures/14/06/17/14/04/353959.jpg" group-title="Marvel",Guardianes de la Galaxia 
+acestream://c168beb91589c0d303814a470df03f95a1846af6
+
+#EXTINF:-1, tvg-id="Los Vengadores: Era de Ultron" tvg-logo="https://i.pinimg.com/736x/90/8c/57/908c57d7e7b4cc06cb8d22679875a52b.jpg" group-title="Marvel",Los Vengadores: Era de Ultron 
+acestream://8dda3f17e8d03853cbbb0da785903118e283c42d
+
+#EXTINF:-1, tvg-id="Ant-Man" tvg-logo="https://www.diariodesevilla.es/2019/04/19/cine/Cartel-Ant-Man_1347176473_98762558_667x964.jpg" group-title="Marvel",Ant-Man 
+acestream://a814eb9a039b88983e8a104d07b1c4ce06c636bf
+
+#EXTINF:-1, tvg-id="Capitan America: Civil War" tvg-logo="https://www.cinemascomics.com/wp-content/uploads/2016/03/Capit%C3%A1n-Am%C3%A9rica-Civil-War-poster.jpg" group-title="Marvel",Capitan America: Civil War 
+acestream://e72a00bea257d98308dee3e2b659638eafcace03
+
+#EXTINF:-1, tvg-id="Doctor Strange" tvg-logo="https://es.web.img2.acsta.net/pictures/16/10/26/08/45/139966.jpg" group-title="Marvel",Doctor Strange 
+acestream://9dd2509043809880c7143342fc81142f8e34be3f
+
+#EXTINF:-1, tvg-id="Guardianes de la Galaxia 2" tvg-logo="https://es.web.img3.acsta.net/pictures/17/03/09/14/11/154943.jpg" group-title="Marvel",Guardianes de la Galaxia 2 
+acestream://3fd67be54c77a07842cc901e3fb008fd9524dfab
+
+#EXTINF:-1, tvg-id="Spider-Man: Homecoming " tvg-logo="https://es.web.img2.acsta.net/pictures/17/06/19/14/01/130456.jpg" group-title="Marvel",Spider-Man: Homecoming  
+acestream://91e43729dedaed4ab6e709394521ef0406929d66
+
+#EXTINF:-1, tvg-id="Thor: Ragnarok" tvg-logo="https://i.pinimg.com/564x/e9/23/18/e923181cfdf8b18c0b255ee2470ee131.jpg" group-title="Marvel",Thor: Ragnarok 
+acestream://098879b59e5887b9f2aa886c175e6d08a5b36908
+
+#EXTINF:-1, tvg-id="Black Panther" tvg-logo="https://static.posters.cz/image/750/posters/black-panther-stance-i56196.jpg" group-title="Marvel",Black Panther 
+acestream://992637d7ab577a60771093052a638bed4c6947bf
+
+#EXTINF:-1, tvg-id="Los Vengadores: Infinity War" tvg-logo="https://es.web.img3.acsta.net/pictures/18/03/16/15/33/3988420.jpg" group-title="Marvel",Los Vengadores: Infinity War 
+acestream://2c439d5ee3f3e6d253e8b650c2bc08ab76ad0725
+
+#EXTINF:-1, tvg-id="Ant-Man y la Avispa" tvg-logo="https://es.web.img3.acsta.net/pictures/18/07/03/13/52/3276833.jpg" group-title="Marvel",Ant-Man y la Avispa
+acestream://99669c7e5f331a5debd7deeb8f551f27c1ba5385
+
+#EXTINF:-1, tvg-id="Capitana Marvel" tvg-logo="http://es.web.img2.acsta.net/r_1920_1080/pictures/18/12/03/11/56/5027832.jpg" group-title="Marvel",Capitana Marvel 
+acestream://67938be4fb064c9c7e49238aa1b84a336de3607d
+
+#EXTINF:-1, tvg-id="Vengadores: Endgame" tvg-logo="https://es.web.img2.acsta.net/pictures/19/03/26/17/22/0896830.jpg" group-title="Marvel",Vengadores: Endgame 
+acestream://2dfa402af8a6910663964cc7e50cce912c5b7a3b
+
+#EXTINF:-1, tvg-id="Spider-Man: Lejos de casa" tvg-logo="https://es.web.img3.acsta.net/pictures/19/06/04/09/41/5108791.jpg" group-title="Marvel",Spider-Man: Lejos de casa 
+acestream://01f58d9200263c1e3a4eec02546abc026b60715f
+
+#EXTINF:-1, tvg-id="Viuda Negra" tvg-logo="https://es.web.img3.acsta.net/pictures/20/03/09/18/28/5915477.jpg" group-title="Marvel",Viuda Negra 
+acestream://dffdaa7591f26b06ee400b31e3e4edf563974dbc
+
+#EXTINF:-1, tvg-id="Shang-Chi y la leyenda de los diez anillos" tvg-logo="https://es.web.img2.acsta.net/pictures/21/05/25/14/03/2848457.jpg" group-title="Marvel",Shang-Chi y la leyenda de los diez anillos 
+acestream://ff4748cf99a37ec09a267172cb910427ac3e7f53
+
+#EXTINF:-1, tvg-id="Eternals" tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/19/10/48/2250523.jpg" group-title="Marvel",Eternals 
+acestream://e6cb3e6683f3d4eb7766e11ab1ae95a5cacf0fee
+
+#EXTINF:-1, tvg-id="Spider-Man: No Way Home" tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/01/12/07/0243323.jpg" group-title="Marvel",Spider-Man: No Way Home 
+acestream://6dff7ffba4e22e6787f6e3c91f9b1781047c688b
 
