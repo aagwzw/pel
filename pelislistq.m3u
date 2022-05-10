@@ -24,6 +24,27 @@ acestream://257906bafcdf58266da6560264cf19846839a628
 #EXTINF:-1, tvg-id="Black Box" tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/10/14/53/2898467.jpg" group-title="Peliculas",Black Box
 acestream://4d745335dd2b072c2896986a029cac2570688933
 
+#EXTINF:-1, tvg-id="Hasta que nos volvamos a encontrar" tvg-logo="https://mx.web.img3.acsta.net/pictures/22/02/21/18/37/5656206.png" group-title="Peliculas",Hasta que nos volvamos a encontrar
+acestream://2e3f02313498a01b8d3a706778d1f1da5d70d7ad
+
+#EXTINF:-1, tvg-id="Jackass Forever" tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/28/15/06/3504600.jpg" group-title="Peliculas",Jackass Forever
+acestream://fd8e17e9f0b98d1f71745047ba4462bc58f1cd58
+
+#EXTINF:-1, tvg-id="The Penthouse" tvg-logo="https://images.moviefit.me/t/b/387614-the-penthouse.jpg" group-title="Peliculas",The Penthouse
+acestream://8f95163c3b8f6316df393da589a5c998831f736f
+
+#EXTINF:-1, tvg-id="La octava clausula" tvg-logo="https://mx.web.img2.acsta.net/pictures/22/04/07/01/59/4607644.jpg" group-title="Peliculas",La octava clausula
+acestream://b76f7c38785dc1d3ddd0ae1d4131459343465efa
+
+#EXTINF:-1, tvg-id="Las reinas de los cupones" tvg-logo="https://es.web.img2.acsta.net/c_310_420/pictures/21/07/08/19/51/2440589.jpg" group-title="Peliculas",Las reinas de los cupones
+acestream://7b232108c55cdc75c15c851551e137c3592c871f
+
+#EXTINF:-1, tvg-id="Erase una vez en Euskadi" tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/25/17/36/5584165.jpg" group-title="Peliculas",Erase una vez en Euskadi
+acestream://87358f7b88899076e4d96fb3830835e8428875b4
+
+#EXTINF:-1, tvg-id="Ferry" tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/06/13/54/5302395.jpg" group-title="Peliculas",Ferry
+acestream://473c503a9f47a64c6ab6809f49f03b9ba797ffdd
+
 #EXTINF:-1, tvg-id="El taller" tvg-logo="https://www.dcine.org/sites/default/files/carteles/el-taller.jpg" group-title="Peliculas",El taller
 acestream://4aba1a86b6de86e9b72d646e2e634b43916f8814
 
@@ -39,11 +60,14 @@ acestream://935db5ed5af175fa9eb099ad22844893834d0646
 #EXTINF:-1, tvg-id="Metal Lords" tvg-logo="https://es.web.img2.acsta.net/pictures/22/03/14/09/21/0294631.jpg" group-title="Peliculas",Metal Lords
 acestream://c3f3e13bddb69cf4667dd17b399092458a9b5670
 
-#EXTINF:-1, tvg-id="1x1 Bienvenidos al eden" tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/12/00/58/3734814.jpg" group-title="Bienvenidos al eden",1x1 Bienvenidos al eden
+#EXTINF:-1, tvg-id="1x1 Bienvenidos a eden" tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/12/00/58/3734814.jpg" group-title="Bienvenidos a eden",1x1 Bienvenidos a eden
 acestream://60488a678ef0767ae8a04421ebd2c60d9077590b
 
-#EXTINF:-1, tvg-id="1x2 Bienvenidos al eden" tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/12/00/58/3734814.jpg" group-title="Bienvenidos al eden",1x2 Bienvenidos al eden
+#EXTINF:-1, tvg-id="1x2 Bienvenidos a eden" tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/12/00/58/3734814.jpg" group-title="Bienvenidos a eden",1x2 Bienvenidos a eden
 acestream://e5877c2085541784af4fe938a6e4e9506e83ae74
+
+#EXTINF:-1, tvg-id="1x3 Bienvenidos a eden" tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/12/00/58/3734814.jpg" group-title="Bienvenidos a eden",1x3 Bienvenidos a eden
+acestream://01d712d29cfdf69755bbeb61c1d1ae9f5a80df47
 
 #EXTINF:-1, tvg-id="1x1 Outer Range" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/10/10/50/4518123.jpg" group-title="Outer Range",1x1 Outer Range
 acestream://a28521d8ee495758281cdeea7c32611dac7686bd
