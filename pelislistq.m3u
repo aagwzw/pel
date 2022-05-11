@@ -81,6 +81,9 @@ acestream://87358f7b88899076e4d96fb3830835e8428875b4
 #EXTINF:-1, tvg-id="Ferry" tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/06/13/54/5302395.jpg" group-title="Peliculas",Ferry
 acestream://473c503a9f47a64c6ab6809f49f03b9ba797ffdd
 
+#EXTINF:-1, tvg-id="Perdidos en el artico" tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/14/07/31/1329417.jpg" group-title="Peliculas",Perdidos en el artico
+acestream://6648c3013b59ee610db212197b40b680285a9e00
+
 #EXTINF:-1, tvg-id="El taller" tvg-logo="https://www.dcine.org/sites/default/files/carteles/el-taller.jpg" group-title="Peliculas",El taller
 acestream://4aba1a86b6de86e9b72d646e2e634b43916f8814
 
@@ -96,8 +99,20 @@ acestream://935db5ed5af175fa9eb099ad22844893834d0646
 #EXTINF:-1, tvg-id="Metal Lords" tvg-logo="https://es.web.img2.acsta.net/pictures/22/03/14/09/21/0294631.jpg" group-title="Peliculas",Metal Lords
 acestream://c3f3e13bddb69cf4667dd17b399092458a9b5670
 
-#EXTINF:-1, tvg-id="Bienvenidos a eden Temporada 1" tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/12/00/58/3734814.jpg" group-title="Bienvenidos a eden",Bienvenidos a eden Temporada 1
+#EXTINF:-1, tvg-id="800 Metros" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/10/11/40/5923131.jpg" group-title="Documental",800 Metros
+acestream://212832a49b2d8e6292665c78983b8a9d2f97f2cc
+
+#EXTINF:-1, tvg-id="Free Solo" tvg-logo="https://es.web.img2.acsta.net/pictures/18/09/07/00/28/4232756.jpg" group-title="Documental",Free Solo
+acestream://b27b36820d17b33146a2a7c569cbd7ef654d829e
+
+#EXTINF:-1, tvg-id="Bienvenidos a eden Temp1" tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/12/00/58/3734814.jpg" group-title="Bienvenidos a eden",Bienvenidos a eden Temp1
 acestream://76f5a727b1ee277e58674f9409fee9dcbf485fc8
+
+#EXTINF:-1, tvg-id="Soy Georgina" tvg-logo="https://mx.web.img3.acsta.net/pictures/22/01/18/17/54/5865473.jpg" group-title="Soy Georgina",Soy Georgina
+acestream://cdfc77e8b22a2c4c2044fd563371d18dd4ab7edb
+
+#EXTINF:-1, tvg-id="La linea invisible Temp1" tvg-logo="https://es.web.img2.acsta.net/pictures/20/03/03/11/05/5052442.jpg" group-title="La linea invisible",La linea invisible Temp1
+acestream://c63007fb768d8680f4f8863859344821dc4d5b30
 
 #EXTINF:-1, tvg-id="1x1 Outer Range" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/10/10/50/4518123.jpg" group-title="Outer Range",1x1 Outer Range
 acestream://a28521d8ee495758281cdeea7c32611dac7686bd
