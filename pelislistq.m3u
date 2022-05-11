@@ -18,6 +18,42 @@ acestream://06d6aace33ca82d0b3898eb7137e3cec4eceffc2
 #EXTINF:-1, tvg-id="Incompatibles 2" tvg-logo="https://es.web.img2.acsta.net/pictures/22/03/17/21/16/0281984.png" group-title="Peliculas",Incompatibles 2
 acestream://72071e8702a3ea210489e3feaf7484d8c29b4914
 
+#EXTINF:-1, tvg-id="Garcia y Garcia" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/07/26/10/39/0650122.jpg" group-title="Peliculas",Garcia y Garcia
+acestream://547e19f86000e47a1020c03d4ca1321a48268706
+
+#EXTINF:-1, tvg-id="Ghost in the Shell: Guerra sostenible" tvg-logo="https://es.web.img2.acsta.net/pictures/22/04/25/10/23/4919887.jpg" group-title="Peliculas",Ghost in the Shell: Guerra sostenible
+acestream://4f82c28f2bc3787d8f78f80c50206cd1b09429fe
+
+#EXTINF:-1, tvg-id="Dejate llevar" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/28/10/42/4269462.jpg" group-title="Peliculas",Dejate llevar
+acestream://c952caa364ff1b949779ba3c3b239a9577a516f5
+
+#EXTINF:-1, tvg-id="Clean" tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/05/21/04/2676469.jpg" group-title="Peliculas",Clean
+acestream://5874f1a6bca885b7446ad14c2c5b19bc3fbddeb3
+
+#EXTINF:-1, tvg-id="Amor de madre" tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/21/11/16/4244176.jpg" group-title="Peliculas",Amor de madre
+acestream://2636afeaa33c3f3aeb70ce813f37669969259886
+
+#EXTINF:-1, tvg-id="Otra ronda" tvg-logo="https://es.web.img3.acsta.net/pictures/21/03/17/14/33/4882786.jpg" group-title="Peliculas",Otra ronda
+acestream://4b6a8d82b0ee4116953164d9cd51cf11ca2e446d
+
+#EXTINF:-1, tvg-id="Gold" tvg-logo="https://es.web.img2.acsta.net/pictures/22/03/08/17/27/4936079.jpg" group-title="Peliculas",Gold
+acestream://319c1e4f3b4cfc7058986f788bed9b736acea60f
+
+#EXTINF:-1, tvg-id="Kimi" tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/27/09/57/4248015.jpg" group-title="Peliculas",Kimi
+acestream://215754fe785083d36a624db53bc815a8bc96724b
+
+#EXTINF:-1, tvg-id="El proyecto Adam" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/01/15/19/5343614.jpg" group-title="Peliculas",El proyecto Adam
+acestream://7efbc7226cc0e7e667c63f86e40c14153785d30f
+
+#EXTINF:-1, tvg-id="Huida de Mogadiscio" tvg-logo="https://es.web.img2.acsta.net/pictures/21/07/14/02/12/1163330.jpg" group-title="Peliculas",Huida de Mogadiscio
+acestream://8a77ce7167eed7d7309810d02caa197e93ed7808
+
+#EXTINF:-1, tvg-id="The Batman" tvg-logo="https://es.web.img2.acsta.net/pictures/21/11/10/17/39/5549864.jpg" group-title="Peliculas",The Batman
+acestream://b21f036f4fa7a8cd8f677da7b2ba0d0103cc3fb6
+
+#EXTINF:-1, tvg-id="Las leyes de la frontera" tvg-logo="https://es.web.img2.acsta.net/pictures/21/07/28/11/29/4024483.jpg" group-title="Peliculas",Las leyes de la frontera
+acestream://8ac5b2bb8f741db37b83816dd8f957d0299b4c3b
+
 #EXTINF:-1, tvg-id="The Colony" tvg-logo="https://i.blogs.es/2540db/the-colony-cartel/450_1000.jpeg" group-title="Peliculas",The Colony
 acestream://257906bafcdf58266da6560264cf19846839a628
 
@@ -188,6 +224,4 @@ acestream://e6cb3e6683f3d4eb7766e11ab1ae95a5cacf0fee
 
 #EXTINF:-1, tvg-id="Spider-Man: No Way Home" tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/01/12/07/0243323.jpg" group-title="Marvel",Spider-Man: No Way Home 
 acestream://6dff7ffba4e22e6787f6e3c91f9b1781047c688b
-
-
 
