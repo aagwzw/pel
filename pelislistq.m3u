@@ -96,14 +96,8 @@ acestream://935db5ed5af175fa9eb099ad22844893834d0646
 #EXTINF:-1, tvg-id="Metal Lords" tvg-logo="https://es.web.img2.acsta.net/pictures/22/03/14/09/21/0294631.jpg" group-title="Peliculas",Metal Lords
 acestream://c3f3e13bddb69cf4667dd17b399092458a9b5670
 
-#EXTINF:-1, tvg-id="1x1 Bienvenidos a eden" tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/12/00/58/3734814.jpg" group-title="Bienvenidos a eden",1x1 Bienvenidos a eden
-acestream://60488a678ef0767ae8a04421ebd2c60d9077590b
-
-#EXTINF:-1, tvg-id="1x2 Bienvenidos a eden" tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/12/00/58/3734814.jpg" group-title="Bienvenidos a eden",1x2 Bienvenidos a eden
-acestream://e5877c2085541784af4fe938a6e4e9506e83ae74
-
-#EXTINF:-1, tvg-id="1x3 Bienvenidos a eden" tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/12/00/58/3734814.jpg" group-title="Bienvenidos a eden",1x3 Bienvenidos a eden
-acestream://01d712d29cfdf69755bbeb61c1d1ae9f5a80df47
+#EXTINF:-1, tvg-id="Bienvenidos a eden T1" tvg-logo="https://es.web.img3.acsta.net/pictures/22/04/12/00/58/3734814.jpg" group-title="Bienvenidos a eden",Bienvenidos a eden T1
+acestream://76f5a727b1ee277e58674f9409fee9dcbf485fc8
 
 #EXTINF:-1, tvg-id="1x1 Outer Range" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/10/10/50/4518123.jpg" group-title="Outer Range",1x1 Outer Range
 acestream://a28521d8ee495758281cdeea7c32611dac7686bd
