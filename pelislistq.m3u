@@ -1,5 +1,50 @@
 #EXTM3U
 
+#EXTINF:-1, tvg-id="Camera Cafe" tvg-logo="https://pics.filmaffinity.com/Camera_Caf_la_pel_cula-806236522-large.jpg" group-title="Peliculas",Camera Café, la película
+acestream://abb14da208ef4d2d3fc6946e7446e204425f8bb0
+
+#EXTINF:-1, tvg-id="Dios mio los niños han vuelto" tvg-logo="https://www.ecartelera.com/carteles/16700/16778/001_m.jpg" group-title="Peliculas",Dios mio los niños han vuelto
+acestream://7a63bafc5aba9cb31208c1b97590bbb07fb34d65
+
+#EXTINF:-1, tvg-id="El espía honesto" tvg-logo="https://es.web.img3.acsta.net/pictures/21/09/17/10/29/3748036.jpg" group-title="Peliculas",El espía honesto
+acestream://654fe7fc2f8791434a92caf3779e19f76a5b3dc7
+
+#EXTINF:-1, tvg-id="Tras la pista del asesino" tvg-logo="https://es.web.img2.acsta.net/pictures/21/06/11/09/10/0237859.jpg" group-title="Peliculas",Tras la pista del asesino
+acestream://c65100e4192ea9a0878b8ce94f9978a80e088833
+
+#EXTINF:-1, tvg-id="Fátima" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/20/03/27/12/57/1959315.jpg" group-title="Peliculas",Fátima
+acestream://cb38ca3eae121bf16eaf1b1724aa5107d6a266f8
+
+#EXTINF:-1, tvg-id="Un día para morir" tvg-logo="https://es.web.img2.acsta.net/pictures/22/02/25/09/54/1952217.jpg" group-title="Peliculas",Un día para morir
+acestream://ce60494b61fecb47fb9aa03344c4e14e5f1d60ba
+
+#EXTINF:-1, tvg-id="Ready player one" tvg-logo="https://pics.filmaffinity.com/Ready_Player_One-508487059-large.jpg" group-title="Peliculas",Ready player one
+acestream://ef2d363483e02b308556dc2d26fb95e9e22f263c
+
+#EXTINF:-1, tvg-id="Morbius" tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/10/13/16/1386612.jpg" group-title="Peliculas",Morbius
+acestream://70c80241da73fe204188eda8a39d12854a2b24eb
+
+#EXTINF:-1, tvg-id="Despierta tigre" tvg-logo="https://pics.filmaffinity.com/Despierta_tigre-255123198-large.jpg" group-title="Peliculas",Despierta tigre
+acestream://e62e57ce4f143b4c693d53ad62f5c7d477bd92de
+
+#EXTINF:-1, tvg-id="En la Toscana" tvg-logo="https://decine21.com/img/upload/obras/en-la-toscana-45531/en-la-toscana-45531-c.jpg" group-title="Peliculas",En la Toscana
+acestream://02de4bf89be5d93552f852c6372246136745bf12
+
+#EXTINF:-1, tvg-id="Conspiración en Hollywood" tvg-logo="https://es.web.img3.acsta.net/pictures/22/02/24/23/00/0894390.png" group-title="Peliculas",Conspiración en Hollywood
+acestream://0d98127dc10509ad6f1c8d6a8116ad7b732c7f80
+
+#EXTINF:-1, tvg-id="Capitan Carver" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/09/09/17/50/3914119.jpg" group-title="Peliculas",Capitan Carver
+acestream://e6d82ff1e437eb35c56c5b07a77be15a66bfa3bd
+
+#EXTINF:-1, tvg-id="Ariaferma" tvg-logo="https://es.web.img3.acsta.net/pictures/22/03/16/17/39/2900419.jpg" group-title="Peliculas",Ariaferma
+acestream://d7928705cf3b02fd2b5eca21a9143f0bef1b2e78
+
+#EXTINF:-1, tvg-id="El brindis" tvg-logo="https://es.web.img3.acsta.net/pictures/22/01/19/14/33/3087556.jpg" group-title="Peliculas",El brindis
+acestream://464ce8a5cdc37d50e2b544a23932081e6a19f3a8
+
+#EXTINF:-1, tvg-id="R.I.A" tvg-logo="https://pics.filmaffinity.com/R_I_A-696262881-large.jpg" group-title="Peliculas",R.I.A
+acestream://29b35b0c0e14e62f8e4f52f2eaddbfc854659e9d
+
 #EXTINF:-1, tvg-id="El dia de la bandera" tvg-logo="https://es.web.img2.acsta.net/pictures/21/10/08/13/14/3855646.jpg" group-title="Peliculas",El dia de la bandera
 acestream://83ffbe5e8967e552a00224e1944ff9a89fafaf89
 
