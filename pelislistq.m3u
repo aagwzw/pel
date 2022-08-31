@@ -1,5 +1,23 @@
 #EXTM3U
 
+#EXTINF:-1, tvg-id="Llenos de gracia" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/llenos-de-gracia-cartel-fotogramas-1648629951.jpg" group-title="Peliculas",Llenos de gracia
+acestream://2d405c96607abb858a9d8aebdf46160e52d653f8
+
+#EXTINF:-1, tvg-id="Juego de asesinos" tvg-logo="https://www.ecartelera.com/carteles/17100/17195/001.jpg" group-title="Peliculas",Juego de asesinos
+acestream://80771ffffa7a6889b62d390ff1e7f7f1c2656a1e
+
+#EXTINF:-1, tvg-id="Bull" tvg-logo="https://pics.filmaffinity.com/Bull-488921772-large.jpg" group-title="Peliculas",Bull
+acestream://9918533f9645018b60cf2709b9fd35def399be77
+
+#EXTINF:-1, tvg-id="Rhino" tvg-logo="https://www.loslunesseriefilos.com/wp-content/uploads/2022/07/critica-rhino-amff.jpg" group-title="Peliculas",Rhino
+acestream://68117fe2ba1ce4430e78bf5df0b5a5f47c028ad6
+
+#EXTINF:-1, tvg-id="1x1 La Casa Del Dragon" tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/23/10/15/2869612.jpg" group-title="La Casa Del Dragon",1x1 La Casa Del Dragon
+acestream://6ab21156cc30237ac7a6cb3b7766516a85d1fe14
+
+#EXTINF:-1, tvg-id="1x2 La Casa Del Dragon" tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/23/10/15/2869612.jpg" group-title="La Casa Del Dragon",1x2 La Casa Del Dragon
+acestream://908ed5ac3e162ac40156982b7e638cd2f2245eb2
+
 #EXTINF:-1, tvg-id="Camera Cafe" tvg-logo="https://www.ecartelera.com/carteles/15500/15564/001_m.jpg" group-title="Peliculas",Camera Café
 acestream://abb14da208ef4d2d3fc6946e7446e204425f8bb0
 
@@ -332,4 +350,3 @@ acestream://e6cb3e6683f3d4eb7766e11ab1ae95a5cacf0fee
 
 #EXTINF:-1, tvg-id="Spider-Man: No Way Home" tvg-logo="https://es.web.img2.acsta.net/pictures/21/12/01/12/07/0243323.jpg" group-title="Marvel",Spider-Man: No Way Home 
 acestream://6dff7ffba4e22e6787f6e3c91f9b1781047c688b
-
